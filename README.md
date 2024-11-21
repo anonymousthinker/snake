@@ -1,4 +1,5 @@
 # snake
 
-Just an enthusiast trying out stuff!
-IN PROGRESS...
+
+You guys know snake and ladder game? This is just the same but without a board!
+It has a cool movind dice though :)
